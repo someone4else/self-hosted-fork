@@ -213,6 +213,6 @@ services:
 
   # Web App
   web:
-    image: ghcr.io/someone4else/for-web-fork:2b8b414
+    image: ghcr.io/someone4else/for-web-fork:a3377f5
     restart: always
     env_file: .env.web
